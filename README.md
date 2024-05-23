@@ -1,3 +1,4 @@
 # calculator-App
-This is my first Git repository
-Auther Anwar Sher
+This is my first Git repository.
+<br>
+Auther- Anwar Sher
